@@ -6,17 +6,17 @@
   "style": "src/pushbar.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oncebot/pushbar.js.git"
+    "url": "git+https://github.com/wkoehn/pushbar.js.git"
   },
   "keywords": [
     "javascript",
     "drawer-navigation",
     "slide-menu"
   ],
-  "author": "oncebot",
+  "author": "wkoehn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oncebot/pushbar.js/issues"
+    "url": "https://github.com/wkoehn/pushbar.js/issues"
   },
-  "homepage": "https://github.com/oncebot/pushbar.js#readme"
+  "homepage": "https://github.com/wkoehn/pushbar.js#readme"
 }

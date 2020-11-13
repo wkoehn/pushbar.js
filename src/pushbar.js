@@ -1,4 +1,4 @@
-class Pushbar {
+export default class Pushbar {
     constructor(config = { overlay: true, blur: false }) {
         this.activeId;
         this.activeElement;

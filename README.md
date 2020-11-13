@@ -1,26 +1,17 @@
-[☕️ Buy Me A Cofee](https://www.buymeacoffee.com/oncebot)
+Forked from oncebot/pushbar.js to add ES6 module support, nothing else has changed.
 
 # Pushbar.js
 Pushbar.js is a tiny javascript plugin for creating sliding drawers in web apps
 It is fully customizable and dependency free.You can use it as sidebar menus or option drawers.
 
 
-### NEW! [ IMPORTANT: USES HAS SLIGNT CHANGE, SEE BELOW ]
-
-1. It's now even smaller and more effitient
-2. Code is now beautified
-3. Added to NPM
-4. Added to CDN
-
 [Demo](https://oncebot.github.io/pushbar.js/)
-
-![Pushbar. animated](https://oncebot.github.io/pushbar.js/animated.pushbar.js.gif)
 
 ### Installation
 
-1. Add the pushbar.css file to the head of your html. CDN : `https://cdn.jsdelivr.net/npm/pushbar.js@1.0.0/src/pushbar.min.css`.
-2. Add the pushbar.js file to the head of your html or right before the closing body tag. CDN `https://cdn.jsdelivr.net/npm/pushbar.js@1.0.0/src/pushbar.min.js`
-3. Add this code after the pushbar.js script tag to initialize the plugin.
+1. npm i wkoehn/pushbar.js
+2. Import: import Pushbar from 'pushbar.js';
+3. Add this code to initialize the plugin:
 
 ```
 <script type="text/javascript">
